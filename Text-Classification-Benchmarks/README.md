@@ -1,3 +1,5 @@
+[Google Colab](https://colab.research.google.com/drive/1oPLPV8RWIHM6003CVPjGasvNzUuAOj1N?usp=sharing)
+
 Portion 0.1, single layer MLP: final accuracy: 0.7062334418296814, final loss: 0.9896745085716248, num of params: 8004
 <img width="1589" height="790" alt="image" src="https://github.com/user-attachments/assets/dfa76135-cd67-4cb6-bdcc-2b132510b4d4" />
 
